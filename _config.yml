@@ -2,24 +2,24 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title: Queen Logit
+# Two things to note:
+# 1. url MUST be <username>.github.io for jekyll to render in GH Pages
+# 2. baseurl MUST be '' in order for jekyll to render in GH pages when on
+#    blog mode. Else, it should be set to '/<reponame>' and live under the
+#    gh-pages branch of the repository.
 
-# The unique resource location of your page.
-# Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://davidmrdavid.github.io
-
-# Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
-# Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             ''
+title  : Queen Logit
+url    : https://davidmrdavid.github.io
+baseurl: ''
 
 # A very short description of your page
-tagline:             A pretentious two-column Jekyll theme.
+tagline: Yet another blog on ML. Who would have guessed?
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Open `_config.yml` to edit this text.
+  A messy collection of notes, thoughts and ramblings on Machine Learning, Programming and
+  perhaps even more. 
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
@@ -59,11 +59,6 @@ permalink:           pretty
 # Pagination configuration (used by the `blog` layout)
 paginate:            5
 paginate_path:       '/page-:num/'
-
-# If you are upgrading form a v5 verison of Hydejack, uncomment the two lines below,
-# so that the location of the feed XML stays the same.
-# feed:
-#   path:              atom.xml
 
 # Set to true when building with the `--lsi` option
 # See: https://jekyllrb.com/docs/variables/#site-variables
