@@ -27,7 +27,7 @@ qwtel:
   # Icons appear in order, can be rearranged:
   social:
     # facebook:        <username>
-    twitter:         <username>
+    # twitter:         <username>
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -50,7 +50,7 @@ qwtel:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          <username>
+    # github:          <username>
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -61,8 +61,8 @@ qwtel:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:<mail@domain.tld>
-    rss:             https://<url>/feed.xml
+    # email:           mailto:<mail@domain.tld>
+    # rss:             https://<url>/feed.xml
 
 # Another author
 mdo:
