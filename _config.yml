@@ -1,7 +1,7 @@
 title: Abstract Syntax Tea # The title of the blog
 author: David Justo # Your name 
 email: david.justo.1996@gmail.com # your email shown in the footer
-url: http://huangyz.name/moving/ # this is your site's root address.
+url: http://davidmrdavid.github.io # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   A blog, not just about ASTs
 favicon: "./favicon.ico" # set the favicon of the site 
