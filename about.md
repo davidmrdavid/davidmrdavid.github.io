@@ -4,8 +4,9 @@ layout: about
 
 ### Hola!
 
-I'm a software engineer working on programming models and abstractions for serverless applications at Microsoft. Academically speaking, I'm interested in exploring how the co-design of PLs and their tooling (editors, debuggers, synthesizers, documentation, etc.) can positively influence programmer
-productivity and software correctness. I am also fascinated by the shared logical foundations of database and programming languages theory, so I enjoy reading up on work at that intersection. I completed a BS and MS from UC San Diego, where I was advised by Nadia Polikarpova and Arun Kumar; we did some science together. 
+I'm a software engineer in the MSVC / C++ team at Microsoft, working on the [Address Sanitizer](https://learn.microsoft.com/en-us/cpp/sanitizers/asan?view=msvc-170). I was previously working on [Durable Functions](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?tabs=in-process%2Cnodejs-v3%2Cv1-model&pivots=csharp), a serverless durable execution framework, but I've moved to the "open source ranks" of the project.
+
+I enjoy working on dev tools and keeping up with the latest research on programming languages theory; I'm a big nerd for that sort of stuff. The shared logical foundations between database and programming languages theory are also of particular interest to me, so I try to keep one foot in both the systems world and another in PL. In the past, I completed a BS and MS at UC San Diego, where I was advised by Nadia Polikarpova and Arun Kumar on a few research projects.
 
 ### Publications
 
