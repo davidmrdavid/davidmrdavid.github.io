@@ -2,7 +2,7 @@
 layout: about
 ---
 
-### Hola!
+### About
 
 I'm a software engineer in the MSVC / C++ team at Microsoft, working on the [Address Sanitizer](https://learn.microsoft.com/en-us/cpp/sanitizers/asan?view=msvc-170). I was previously working on [Durable Functions](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?tabs=in-process%2Cnodejs-v3%2Cv1-model&pivots=csharp), a serverless durable execution framework, but I've moved to the "open source ranks" of the project.
 
@@ -19,3 +19,6 @@ I enjoy working on dev tools and keeping up with the latest research on programm
 - [Serverless Workflows with Durable Functions and Netherite.](https://arxiv.org/pdf/2103.00033.pdf)
     <p>Sebastian Buckhardt, Chris Gillum, David Justo, Konstantinos Kallas, Connor McMahon, Christopher S. Meikeljohn. <i>Under submission</i></p>
 
+### Service
+- **2023:** [ECOOP 2023 Artifact Evaluation + Extended Review Comittee](https://2023.ecoop.org/committee/ecoop-2023-research-papers-extended-review-committee)
+- **2022:** [ECOOP 2022 Artifact Evaluation + Extended Review Comittee](https://2022.ecoop.org/committee/ecoop-2022-papers-extended-review-committee-)
