@@ -20,12 +20,12 @@ I enjoy working on dev tools and keeping up with the latest research on programm
     <p>Sebastian Buckhardt, Chris Gillum, David Justo, Konstantinos Kallas, Connor McMahon, Christopher S. Meikeljohn. <i>Under submission</i></p>
 
 ### Service
-- **2023:**<br>
-  [ECOOP 2023 Artifact Evaluation + Extended Review Comittee](https://2023.ecoop.org/committee/ecoop-2023-research-papers-extended-review-committee)
-- **2022:**
-  [ECOOP 2022 Artifact Evaluation + Extended Review Comittee](https://2022.ecoop.org/committee/ecoop-2022-papers-extended-review-committee-)<br>
-  [ShutdownPL @ POPL'22](https://popl22.sigplan.org/track/POPL-2022-diversity-equity-inclusion)
-- **2021:**
-  [ShutdownPL @ ICFP'21](https://icfp21.sigplan.org/details/icfp-2021-social-events/12/ShutdownPL)
-- **2020:**
-  [ShutdownPL @ ICFP'20](https://icfp20.sigplan.org/details/icfp-2020-social-events/14/ShutdownPL-Keynote-and-Getting-Started-With-Anti-racist-Action)
+**2023:**
+[ECOOP 2023 Artifact Evaluation + Extended Review Comittee](https://2023.ecoop.org/committee/ecoop-2023-research-papers-extended-review-committee)
+**2022:**
+[ECOOP 2022 Artifact Evaluation + Extended Review Comittee](https://2022.ecoop.org/committee/ecoop-2022-papers-extended-review-committee-)
+[ShutdownPL @ POPL'22](https://popl22.sigplan.org/track/POPL-2022-diversity-equity-inclusion)
+**2021:**
+[ShutdownPL @ ICFP'21](https://icfp21.sigplan.org/details/icfp-2021-social-events/12/ShutdownPL)
+**2020:**
+[ShutdownPL @ ICFP'20](https://icfp20.sigplan.org/details/icfp-2020-social-events/14/ShutdownPL-Keynote-and-Getting-Started-With-Anti-racist-Action)
