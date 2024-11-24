@@ -21,11 +21,11 @@ I enjoy working on dev tools and keeping up with the latest research on programm
 
 ### Service
 **2023:**<br>
-[ECOOP 2023 Artifact Evaluation + Extended Review Comittee](https://2023.ecoop.org/committee/ecoop-2023-research-papers-extended-review-committee)<br>
+[ECOOP'23: Artifact Evaluation + Extended Review Comittee](https://2023.ecoop.org/committee/ecoop-2023-research-papers-extended-review-committee)<br>
 **2022:**<br>
-[ECOOP 2022 Artifact Evaluation + Extended Review Comittee](https://2022.ecoop.org/committee/ecoop-2022-papers-extended-review-committee-)<br>
-[ShutdownPL @ POPL'22](https://popl22.sigplan.org/track/POPL-2022-diversity-equity-inclusion)<br>
+[ECOOP'22: Artifact Evaluation + Extended Review Comittee](https://2022.ecoop.org/committee/ecoop-2022-papers-extended-review-committee-)<br>
+[POPL'22: ShutdownPL](https://popl22.sigplan.org/track/POPL-2022-diversity-equity-inclusion)<br>
 **2021:**<br>
-[ShutdownPL @ ICFP'21](https://icfp21.sigplan.org/details/icfp-2021-social-events/12/ShutdownPL)<br>
+[ICFP'21: ShutdownPL](https://icfp21.sigplan.org/details/icfp-2021-social-events/12/ShutdownPL)<br>
 **2020:**<br>
-[ShutdownPL @ ICFP'20](https://icfp20.sigplan.org/details/icfp-2020-social-events/14/ShutdownPL-Keynote-and-Getting-Started-With-Anti-racist-Action)
+[ICFP'20: ShutdownPL](https://icfp20.sigplan.org/details/icfp-2020-social-events/14/ShutdownPL-Keynote-and-Getting-Started-With-Anti-racist-Action)
