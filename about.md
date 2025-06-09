@@ -16,8 +16,8 @@ I enjoy working on dev tools and keeping up with the latest research on programm
   <p>David Justo, Shaoqing Yi, Lukas Stadler, Nadia Polikarpova, Arun Kumar. VLDB '21 (Industry Track)</p>
 - [Durable Functions: Semantics for Stateful Serverless.](https://dl.acm.org/doi/pdf/10.1145/3485510)
   <p>Sebastian Buckhardt, Chris Gillum, David Justo, Konstantinos Kallas, Connor McMahon, Christopher S. Meikeljohn. OOPSLA '21</p>
-- [Serverless Workflows with Durable Functions and Netherite.](https://arxiv.org/pdf/2103.00033.pdf)
-    <p>Sebastian Buckhardt, Chris Gillum, David Justo, Konstantinos Kallas, Connor McMahon, Christopher S. Meikeljohn. <i>Under submission</i></p>
+- [Serverless Workflows with Durable Functions and Netherite.](https://dl.acm.org/doi/10.14778/3529337.3529344)
+  <p>Sebastian Buckhardt, Chris Gillum, David Justo, Konstantinos Kallas, Connor McMahon, Christopher S. Meikeljohn. VLDB '22</p>
 
 ### Service
 **2023**<br>
