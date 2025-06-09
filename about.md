@@ -10,7 +10,7 @@ I enjoy working on dev tools and keeping up with the latest research on programm
 
 ### Resume
 
-You can find it [here](./files/david_justo_resume_2025.pdf)/
+You can find it [here](./files/david_justo_resume.pdf).
 
 ### Publications
 
