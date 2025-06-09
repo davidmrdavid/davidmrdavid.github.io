@@ -8,6 +8,10 @@ I'm a software engineer in the MSVC / C++ team at Microsoft, working on the [Add
 
 I enjoy working on dev tools and keeping up with the latest research on programming languages theory; I'm a big nerd for that sort of stuff. The shared logical foundations between database and programming languages theory are also of particular interest to me, so I try to keep one foot in both the systems world and another in PL. In the past, I completed a BS and MS at UC San Diego, where I was advised by Nadia Polikarpova and Arun Kumar on a few research projects.
 
+### Resume
+
+You can find it [here](./files/david_justo_resume_2025.pdf)/
+
 ### Publications
 
 - [Program Synthesis by Type-Guided Abstraction Refinement.](https://cseweb.ucsd.edu/~npolikarpova/publications/popl20.pdf)
