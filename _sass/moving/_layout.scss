@@ -279,6 +279,17 @@
       @include relative-font-size(1.25);
     }
   }
+
+  /**
+ * Footnotes
+ */
+.footnotes {
+  @include relative-font-size(0.88);
+  color: lighten($text-color, 5%);
+  line-height: 1.4;
+  margin-top: $spacing-unit * 1.5;
+}
+
 }
 
 .social-media-list {

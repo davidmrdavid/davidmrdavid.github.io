@@ -82,18 +82,19 @@ hr {
   margin-bottom: 20px;
   border: 0;
   height: 1px;
-  background: -webkit-linear-gradient(
-    left,
-    transparent,
-    rgba(0, 0, 0, 0.5),
-    transparent
-  );
-  background: linear-gradient(
-    left,
-    transparent,
-    rgba(0, 0, 0, 0.5),
-    transparent
-  );
+  background-color: $grey-color-light;
+  // background: -webkit-linear-gradient(
+  //   left,
+  //   transparent,
+  //   rgba(0, 0, 0, 0.5),
+  //   transparent
+  // );
+  // background: linear-gradient(
+  //   left,
+  //   transparent,
+  //   rgba(0, 0, 0, 0.5),
+  //   transparent
+  // );
 }
 
 /**
