@@ -48,4 +48,4 @@ Everyone who struggles with overwork struggles for different reasons, but for me
 
 ---
 
-[^fridays]:You can also try to manage your pace across the week. What are the days where you're most receptive to intense work that you'll want to obsess over? Personally, I thread carefully on Fridays. It's different working late on a Thursday, than on a Friday.
+[^fridays]:You can also try to manage your pace across the week. What are the days where you're most receptive to intense work that you'll want to obsess over? Personally, I tread carefully on Fridays. It's different working late on a Thursday, than on a Friday.
