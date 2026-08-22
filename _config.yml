@@ -1,7 +1,7 @@
 title: Abstract Syntax Tea # The title of the blog
 author: David Justo # Your name 
 email: david.justo.1996@gmail.com # your email shown in the footer
-url: https://davidmrdavid.github.io # this is your site's root address.
+url: https://syntaxtea.com # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   You peek into the the abstraction, it stares right back.
 favicon: "./favicon.ico" # set the favicon of the site 
